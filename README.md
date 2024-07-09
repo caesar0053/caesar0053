@@ -11,7 +11,6 @@
 - 🔭 A  Backend developer. I’m currently working in  China
 
 ### Love life. 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=caesar0053&show_icons=true&theme=radical" /> 
 ---
 <p align="center">
   Visitor count<br>
